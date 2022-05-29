@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1> Registration </h1>
-<form action = "..?control/process.php" method="post">
+<form action = "../control/process.php" method="post">
 <table>
 </tr>
 <tr>

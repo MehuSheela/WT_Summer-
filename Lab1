@@ -1,0 +1,29 @@
+
+<html>
+<body>
+<h1> Registration </h1>
+<form action = "..?control/process.php" method="post">
+<table>
+</tr>
+<tr>
+<tr> <td> Enter 1st number :</td> <td> <input type="test" name="number1"> </td>
+<tr> <td> Enter 2nd number :</td> <td> <input type="test" name="number 2"> </td>
+<td> entr your choices: </td>
+<td>
+<input type="radio" name="Series" value="add">add
+<input type="radio" name="Series" value="sub">sub
+<input type="radio" name="Series" value="multipy">multipy
+<input type="radio" name="Series" value="divition">divition
+
+</td>
+
+<tr> <td> <input type="submit" value="Resend"> </td> </tr>
+
+
+</table>
+
+</form>
+
+</body>
+
+</html>
